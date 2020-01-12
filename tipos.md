@@ -1,0 +1,25 @@
+# Tipos
+
+-   ## bool
+-   ## byte
+    -   (Vai de 0 a 256)
+    -   Não aceita valores negativos
+-   ## short
+    -   Utilizado para variáveis menores
+-   ## int
+-   ## float
+    -   `float <nome> = <valor>f`
+-   ## double
+-   ## decimal
+    -   Valores astronômicos
+-   ## char
+    -   Apenas uma letra delimitada por aspas simples
+-   ## string
+    -   Opções de Concatenação:
+        -   `<string1> + <string2>`
+        -   `"{0} {1}",<string1>, <string2>`
+        -   `$"{<string1>}"`
+-   ## enum
+    -   Conjunto de valores possíveis para uma variável do tipo enum
+    -   `enum <nome1> (valores)`
+    -   `int <nome2> = <nome1>.valor`

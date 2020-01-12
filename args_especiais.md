@@ -6,7 +6,7 @@ Quando passado para um método, será responsável por retornar um outro valor (
 
 ```c#
 public static void teste(int num1, out int num2){
-    // codigo
+    // code
     return num1
 }
 
@@ -21,6 +21,6 @@ Usado para um número indeterminado de parâmetros
 
 ```c#
     public static void soma(params <tipo>[]<nome>){
-        // codigo
+        // code
     }
 ```

@@ -12,6 +12,6 @@ Para passar a referência do endereço da variável na memória, é necessário 
 
 ```c#
     public static void metodoExemplo(ref <tipo> <variavel>){
-        //codigo
+        //code
     }
 ```

@@ -6,7 +6,7 @@
         <especificador> <nome>
         // métodos
         <especificador> <tipoRetorno> <nome>(args){
-            // codigo
+            // code
         }
     }
 ```
@@ -29,4 +29,4 @@
 -   _abstract_: Os métodos não tem implementação, somente o cabeçalho
 -   _sealed_: Não pode ser redefinido, também não pode ser herdada
 -   _virtual_: O método pode ser redefinido em uma classe derivada
--   _static_: O método pode ser chamado sem instanciação
+-   _static_: O método pode ser chamado **sem ser instanciado**

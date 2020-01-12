@@ -2,53 +2,53 @@
 
 -   ```c#
     if(<condicao>){
-        // codigo
+        // code
     }
     ```
 -   ```c#
     if(<condicao>){
-        // codigo
+        // code
     }else{
-        // codigo
+        // code
     }
     ```
 -   ```c#
     if(<condicao>){
-        // codigo
+        // code
     }else if(<condicao>){
-        // codigo
+        // code
     }
     ```
 -   ```c#
       switch(<variavel>){
           case <condicao1>:
-            // codigo
+            // code
             break;
           case <condicao2>:
-            // codigo
+            // code
             break;
           default:
-            <codigoDefault>
+            <defaultCode>
             break;
       }
     ```
 -   ```c#
       while(<condicao>){
-          // codigo
+          // code
       }
     ```
 -   ```c#
       do{
-          // codigo
+          // code
       }while(<condicao>)
     ```
 -   ```c#
       for(<declaracao>;<condicao>;<incremento>){
-          // codigo
+          // code
       }
     ```
 -   ```c#
       foreach(<tipo> <variavel> in <array>){
-          // codigo
+          // code
       }
     ```
